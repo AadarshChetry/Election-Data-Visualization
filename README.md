@@ -1,6 +1,7 @@
 
 ## Milestone 1 – State Analysis
 
+  ![State Analysis](images/state_analysis.png)
 - Built a state-level analysis dashboard visualizing seat distribution, alliance performance, and party-wise results using maps and charts.
 - Implemented dynamic state filtering to analyze seat share and alliance dominance across regions.
 
