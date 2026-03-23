@@ -7,15 +7,18 @@
 
 ## Milestone 2 – Constituency Analysis
 
+  ![Constituency Analysis](images/constituency_analysis.png)
 - Developed a detailed constituency-level dashboard showing candidate performance, vote distribution, and winning margins.
 - Enabled drill-down insights with KPIs like total votes, EVM votes, postal votes, and candidate comparison.
 
 ## Milestone 3 – Party Performance Analysis
 
+  ![Party Performance Analysis](images/party_performance.png)
 - Designed an interactive dashboard analyzing party-wise performance with KPIs such as seats won, strike rate, vote share, and winning margin.
 - Integrated slicers and visualizations to evaluate constituency-level results and state-wise seat distribution for selected parties.
 
 ## Milestone 4 – Overview Analysis
 
+   ![Overview Analysis](images/overview_dashboard.png)
 - Developed a comprehensive overview dashboard summarizing alliance-wise performance, seat distribution, and overall election outcomes.
 - Integrated multi-level insights combining alliance, party, and seat share metrics to provide a complete analytical view of the 2024 Indian General Election.
